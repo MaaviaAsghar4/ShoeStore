@@ -17,7 +17,7 @@ const ProductItem = () => {
             <h2 className='link'>{shoeItem.name}</h2>
             <h2 className='link'>${shoeItem.price}</h2>
             <p>{shoeItem.description}</p>
-            <button onClick={()=>{alert('Item Added')}}>Add to Cart</button>
+            <button onClick={()=>{alert('Item Added to the bucket')}}>Add to Cart</button>
         </div>
     )
 }
