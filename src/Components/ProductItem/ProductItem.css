@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container p{
+    margin: 10px 20px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.container button{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+}

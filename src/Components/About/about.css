@@ -1,0 +1,18 @@
+.para {
+    padding: 10px 10px;
+    text-align: justify;
+    line-height: 1.5rem;
+}
+
+.btn{
+    text-decoration: none;
+    display: flex;
+    margin: 0 auto;
+    background-color: black;
+    width: fit-content;
+    padding: 10px 10px;
+    border-radius: 0.5rem;
+    color: #f7f7f7;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
